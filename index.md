@@ -28,6 +28,9 @@ eventbrite: "47924105289"
   And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+Registration is required and will be available just below, starting at 5:00pm on Wednesday, 9 May 2018. Make sure to read all details below before registering and to choose appropriately between UW-Madison’s [Data Carpentry](https://uw-madison-aci.github.io/2018-08-27-uwmadison-dc/) and 
+[Software Carpentry](https://uw-madison-aci.github.io/2018-08-29-uwmadison-swc/) workshops.
+
 {% comment %}
   EVENTBRITE
 
