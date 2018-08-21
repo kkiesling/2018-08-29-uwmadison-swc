@@ -189,8 +189,8 @@ Registration is required and will be available just below, starting at 5:00pm on
 
 {% if page.carpentry == "swc" %} 
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2018-08-29-uwmadison-swc">Pre-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2018-08-29-uwmadison-swc">Post-workshop Survey</a></p>
 {% elsif page.carpentry == "dc" %}
   <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
