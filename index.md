@@ -13,7 +13,7 @@ enddate: 2018-08-30        # machine-readable end date for the workshop in YYYY-
 instructor: ["Kalin Kiesling", "Steve Meyer", "Lauren Michael", "Sarah Stevens"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["David Hoese", "Baptiste Mouginot", "Pat Shriwise"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["contactaci@lists.wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://uw-madison-aci.github.io/2018-08-29-uwmadison-swc/            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "47924105289"
 ---
 
